@@ -1,0 +1,138 @@
+@media (max-width: 575px) {
+    .carousel{
+        height: 400px ;
+    }
+    .carousel-item img{
+        height: 400px;
+        /* background-color: white; */
+    }
+
+    .carousel-caption{
+        color: #F07883 !important;
+        right: 0% !important;
+        bottom: 30% !important;
+        left: 20% !important;
+         top: 20%;
+    }
+  .banner-heading{
+    font-size: 23px;
+  }
+  .banner-heading-2{
+    font-size: 16px;
+  }
+    .story {
+        width: 220px;
+    }
+}
+
+
+@media (min-width: 575px) and (max-width: 767px) {
+    .carousel{
+        height: 400px ;
+    }
+    .carousel-item img{
+        height: 400px;
+        /* background-color: white; */
+    }
+
+    .carousel-caption{
+        color: #F07883 !important;
+        right: 0% !important;
+        bottom: 30% !important;
+        left: 20% !important;
+         top: 30%;
+    }
+  .banner-heading{
+    font-size: 23px;
+  }
+  .banner-heading-2{
+    font-size: 16px;
+  }
+    .story {
+        width: 220px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .carousel{
+        height: 500px ;
+    }
+    .carousel-item img{
+        height: 500px;
+        /* background-color: white; */
+    }
+
+    .carousel-caption{
+        color: #F07883 !important;
+        right: 0% !important;
+        bottom: 30% !important;
+        left: 20% !important;
+         top: 30%;
+    }
+  .banner-heading{
+    font-size: 30px;
+  }
+  .banner-heading-2{
+    font-size: 17px;
+  }
+    .story {
+        width: 270px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .carousel{
+        height: 593px ;
+    }
+    .carousel-item img{
+        height: 593px;
+        /* background-color: white; */
+    }
+
+    .carousel-caption{
+        color: #F07883 !important;
+        right: 0% !important;
+        bottom: 30% !important;
+        left: 20% !important;
+         top: 40%;
+    }
+  .banner-heading{
+    font-size: 30px;
+  }
+  .banner-heading-2{
+    font-size: 20px;
+  }
+    .story {
+        width: 340px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .carousel{
+        height: 593px ;
+        margin-bottom: 80px;
+    }
+    .carousel-item img{
+        height: 593px;
+        /* background-color: white; */
+    }
+
+    .carousel-caption{
+        color: #F07883 !important;
+        right: 0% !important;
+        bottom: 30% !important;
+        left: 20% !important;
+         top: 40%;
+    }
+  .banner-heading{
+    font-size: 40px;
+  }
+  .banner-heading-2{
+    font-size: 20px;
+  }
+    .story {
+        width: 340px;
+    }
+} 

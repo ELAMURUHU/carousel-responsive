@@ -1,0 +1,46 @@
+/* *{
+    background-color: lightgray;
+} */
+
+.carousel{
+    height: 593px;
+}
+
+.carousel-item img{
+    height: 593px;
+    /* background-color: white; */
+}
+
+.pic-2{
+    width: 100%;object-fit: contain;
+}
+
+.carousel-caption{
+    color: #F07883 !important;
+    right: 0% !important;
+    bottom: 30% !important;
+    left: 45% !important;
+}
+
+.story{
+    text-decoration: none;
+    border: 1px solid #F07883;
+    display: inline-block;
+    width: 350px;
+    height: 40px;
+    text-align: center;
+    color:#F07883;
+    padding: 6px 5px;
+    
+
+}
+
+.story:hover{
+    background-color: #F07883;
+    border: none;
+    color:white;
+    transition-timing-function: ease-in-out;
+    transition-duration: 0.5s;
+    text-align: center;
+
+}
